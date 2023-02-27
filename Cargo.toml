@@ -1,6 +1,6 @@
 [package]
 name = "worktime"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Interactive CLI Pomodoro Counter"
 repository = "https://github.com/Si1veR123/rs-worktime"
