@@ -1,7 +1,10 @@
 [package]
-name = "rs-worktime"
+name = "worktime"
 version = "0.1.0"
 edition = "2021"
+description = "Interactive CLI Pomodoro Counter"
+repository = "https://github.com/Si1veR123/rs-worktime"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
